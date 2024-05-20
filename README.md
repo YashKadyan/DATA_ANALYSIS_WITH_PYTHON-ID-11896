@@ -195,4 +195,4 @@ In conclusion, this Python code example effectively demonstrates the basic opera
 
 ![Python Set and Tuple Data Structure and its Operations](https://github.com/YashKadyan/PYTHON-BASICS-ID-11896/assets/66464974/4f88e7a9-346a-494f-9144-9d898364b933)
 
-![Python Tuple Data Structure and its Operations](src="https://github.com/YashKadyan/PYTHON-BASICS-ID-11896/assets/66464974/c8a39c36-0ba0-42f7-8547-85257db03958)
+![Python Tuple Data Structure and its Operations](https://github.com/YashKadyan/PYTHON-BASICS-ID-11896/assets/66464974/c8a39c36-0ba0-42f7-8547-85257db03958)
