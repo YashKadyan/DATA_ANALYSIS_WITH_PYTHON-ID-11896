@@ -18,6 +18,8 @@ my_list[0] = 10
 
 print("Updated list:", my_list)
 
+# output
+Updated list: [10, 2, 4, 5, 6]
 
 # In[2]:
 
@@ -36,6 +38,8 @@ my_dict['city'] = 'Mumbai'
 
 print('Updated Dictionary:', my_dict)
 
+# output
+Updated Dictionary: {'name': 'John', 'city': 'Mumbai', 'gender': 'Male'}
 
 # In[3]:
 
@@ -55,6 +59,8 @@ my_set.add(10)
 
 print("Updated Set:", my_set)
 
+# output
+Updated Set: {2, 4, 5, 6, 10}
 
 # In[9]:
 
@@ -65,6 +71,8 @@ my_tuple = (1, 2, 3, 4, 5)
 # accessing
 print(my_tuple[2])
 
+# output
+3
 
 # In[10]:
 
@@ -75,3 +83,5 @@ new_my_tuple[1] = 6
 my_tuple = tuple(new_my_tuple)
 print("Updated Tuple:", my_tuple)
 
+# output
+Updated Tuple: (1, 6, 3, 4, 5)
