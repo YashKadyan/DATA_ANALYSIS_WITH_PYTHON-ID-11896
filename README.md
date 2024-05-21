@@ -52,21 +52,25 @@ my_list = [1, 2, 3, 4, 5]
 ### • Adding an Element:
 
 my_list.append(6)
+
 • Adds the element 6 to the end of my_list.
 
 ### • Removing an Element:
 
 my_list.remove(3)
+
 • Removes the first occurrence of the element 3 from my_list.
 
 ### • Modifying an Element:
 
 my_list[0] = 10
+
 • Changes the first element of my_list from 1 to 10.
 
 ## Output:
 
 print("Updated list:", my_list)
+
 • Displays the updated list: [10, 2, 4, 5, 6].
 
 
@@ -77,26 +81,31 @@ print("Updated list:", my_list)
 ### • Creating a Dictionary:
 
 my_dict = {'name': 'John', 'age': 25, 'city': 'Delhi'}
+
 • Initializes a dictionary named my_dict with keys 'name', 'age', and 'city'.
 
 ### • Adding a Key-Value Pair:
 
 my_dict['gender'] = 'Male'
+
 • Adds a new key-value pair 'gender': 'Male' to my_dict.
 
 ### • Removing a Key-Value Pair:
 
 del my_dict['age']
+
 • Removes the key-value pair with the key 'age' from my_dict.
 
 ### • Modifying a Value:
 
 my_dict['city'] = 'Mumbai'
+
 • Changes the value associated with the key 'city' from 'Delhi' to 'Mumbai'.
 
 ## Output:
 
 print("Updated Dictionary:", my_dict)
+
 • Displays the updated dictionary: {'name': 'John', 'city': 'Mumbai', 'gender': 'Male'}.
 
 
@@ -107,27 +116,32 @@ print("Updated Dictionary:", my_dict)
 ### • Creating a Set:
 
 my_set = {1, 2, 3, 4, 5}
+
 • Initializes a set named my_set with elements 1, 2, 3, 4, and 5.
 
 ### • Adding an Element:
 
 my_set.add(6)
+
 • Adds the element 6 to my_set.
 
 ### • Removing an Element:
 
 my_set.remove(3)
+
 • Removes the element 3 from my_set.
 
 ### • Modifying the Set:
 
 my_set.discard(1)
 my_set.add(10)
+
 • Discards the element 1 and adds the element 10 to my_set.
 
 ## Output:
 
 print("Updated Set:", my_set)
+
 • Displays the updated set: {2, 4, 5, 6, 10}.
 
 
@@ -138,11 +152,13 @@ print("Updated Set:", my_set)
 ### • Creating a Tuple:
 
 my_tuple = (1, 2, 3, 4, 5)
+
 • Initializes a tuple named my_tuple with elements 1, 2, 3, 4, and 5.
 
 ### • Accessing an Element:
 
 print(my_tuple[2])
+
 • Prints the third element of my_tuple: 3.
 
 ### • Updating a Tuple:
@@ -150,11 +166,13 @@ print(my_tuple[2])
 new_my_tuple = list(my_tuple)
 new_my_tuple[1] = 6
 my_tuple = tuple(new_my_tuple)
+
 • Converts my_tuple to a list, modifies the second element to 6, and converts it back to a tuple.
 
 ## Output:
 
 print("Updated Tuple:", my_tuple)
+
 • Displays the updated tuple: (1, 6, 3, 4, 5).
 
 
