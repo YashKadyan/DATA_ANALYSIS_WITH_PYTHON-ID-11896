@@ -46,6 +46,7 @@ Through these examples, the code provides a comprehensive overview of basic oper
 ### • Creating a List:
 
 my_list = [1, 2, 3, 4, 5]
+
 • Initializes a list named my_list with elements 1, 2, 3, 4, and 5.
 
 ### • Adding an Element:
