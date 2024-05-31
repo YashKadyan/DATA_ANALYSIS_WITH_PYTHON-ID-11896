@@ -131,7 +131,7 @@ data3
 # In[48]:
 
 
-"""Method 4: For Filling the null values in our dataset. (Backward Filling).
+"""Method 3D Objects/: For Filling the null values in our dataset. (Backward Filling).
 Backward Filling means filling null values with the next value in our dataset."""
 # bfill() is equivalent to method='bfill'.
 data4 = data.bfill()
