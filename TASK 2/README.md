@@ -256,50 +256,50 @@ In conclusion, this Python code example effectively demonstrates essential data 
 
 # OUTPUT
 
-![Loading CSV File into Pandas DataFrame using the read_csv() function and using the type() and info functions]()
+![Loading CSV File into Pandas DataFrame using the read_csv() function and using the type() and info functions](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/2211f36f-cc93-4e73-8f7b-20efd837df91")
 
-![Loading CSV File into Pandas DataFrame]()
+![Loading CSV File into Pandas DataFrame](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/584c4919-2370-41e4-a2d5-7d8d6600cdc1)
 
-![Loading CSV File into Pandas DataFrame]()
+![Loading CSV File into Pandas DataFrame](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/5c079496-d789-4237-8891-8900022a1161)
 
-![Using the shape and describe() functions on the dataset]()
+![Using the shape and describe() functions on the dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/e0b164e0-a499-4f46-8302-8490bcb82f4f)
 
-![Using the drop_duplicates() function on the dataset]()
+![Using the drop_duplicates() function on the dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/ed0e00d3-afb5-4bc6-bf93-5be84dc97efa)
 
-![Using the isnull() function]()
+![Using the isnull() function](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/47449f89-8413-4729-85da-5796faa25a55)
 
-![Using the isnull() function]()
+![Using the isnull() function](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/4574d967-c32d-4973-94e1-cf7c6b17ea3b)
 
-![Using the isnull().sum() function]()
+![Using the isnull().sum() function](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/906b0455-6fb7-4a33-b017-8e95ed57ff7f)
 
-![Using the notnull() function]()
+![Using the notnull() function](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/59b30b50-4aab-44bf-9867-2e7a145334a1)
 
-![Using the isnull().sum().sum() to get the total null values in the dataset]()
+![Using the isnull().sum().sum() to get the total null values in the dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/eecb6b54-9886-4796-aada-551ceda8b7eb)
 
-![Method 1 for Filling the Null Values in the dataset with value as 0]()
+![Method 1 for Filling the Null Values in the dataset with value as 0](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/e7abe028-03da-4a70-b70e-8789c1a8023f)
 
-![Method 1 for Filling the Null Values in the dataset with value as 3]()
+![Method 1 for Filling the Null Values in the dataset with value as 3](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/46a2816e-6681-4227-8be4-7d665f63c241)
 
-![Using the isnull().sum().sum() to get the total null values in the dataset]()
+![Using the isnull().sum().sum() to get the total null values in the dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/ffd7c36f-4fb0-48cb-8f9e-2b3d482118f5)
 
-![Displaying the data which is a DataFrame of the Dataset]()
+![Displaying the data which is a DataFrame of the Dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/04bf2744-bab9-4506-a0d0-176aba30e6a8)
 
-![Method 2 for Filling the Null Values in the dataset (Forward Filling - Filling Null Values with the previous value in our Dataset)]()
+![Method 2 for Filling the Null Values in the dataset (Forward Filling - Filling Null Values with the previous value in our Dataset)](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/4c61e203-4a68-4b37-9935-34fd98082868)
 
-![Method 3 for Filling the Null Values in the dataset (Backward Filling - Filling Null Values with the next value in our Dataset)]()
+![Method 3 for Filling the Null Values in the dataset (Backward Filling - Filling Null Values with the next value in our Dataset)](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/7c81106f-18c4-4032-8d8b-8317df7bc94d)
 
-![Using numpy library for handling our numeric Dataset]()
+![Using numpy library for handling our numeric Dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/45da13dd-4b50-42bb-a4d9-fbafa021dcdf)
 
-![Importing matplotlib library, stats library from scipy and Detecting the Outliers in our Dataset using IQR]()
+![Importing matplotlib library, stats library from scipy and Detecting the Outliers in our Dataset using IQR](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/de2ae7f8-0585-4ef6-859f-a0ae852abb16)
 
-![Using the drop() function for dropping the 'Observation' column since it contains a String in Date-Time format]()
+![Using the drop() function for dropping the 'Observation' column since it contains a String in Date-Time format](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/31683217-627f-47ce-805a-f452e1ab7360)
 
-![Checking the Outliers using the IQR (Inter-Quartile Range) Method]()
+![Checking the Outliers using the IQR (Inter-Quartile Range) Method](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/8723bff3-f73a-44e0-ac3e-a6973cd8939f)
 
-![Removing the Detected Outliers using Formula]()
+![Removing the Detected Outliers using Formula](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/9ef52760-4253-4f2a-a620-9701563161dc)
 
-![Displaying our data2 DataFrame of the dataset once the detected outliers are removed and we get a clean form of our Dataset]()
+![Displaying our data2 DataFrame of the dataset once the detected outliers are removed and we get a clean form of our Dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/d9ed8dce-d4bf-408a-b035-d348c00566cf)
 
-![Using the describe() function to get a proper descriptive statistics of our cleaned Dataset]()
+![Using the describe() function to get a proper descriptive statistics of our cleaned Dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/dc8b49c5-026b-4203-9df8-2b1ae19ee1fd)
 
-![Calculating and Displaying the Proper Summary Statistics after getting our cleaned Dataset]()
+![Calculating and Displaying the Proper Summary Statistics after getting our cleaned Dataset](https://github.com/YashKadyan/DATA_ANALYSIS_WITH_PYTHON-ID-11896/assets/66464974/828004ab-375b-4fcb-86a6-f1ece0e7c438)
